@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CRS-Practice-REST-Project" />
+        <module name="CRS-JEDI-FLIPKART-REST" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CRS-Practice-REST-Project" target="1.8" />
+      <module name="CRS-JEDI-FLIPKART-REST" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

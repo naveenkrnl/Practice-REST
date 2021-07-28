@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="CRS-Practice-REST-Project" />
+          <element id="module-output" name="CRS-JEDI-FLIPKART-REST" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.31" />
@@ -45,7 +45,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/CRS-Practice-REST-Project-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="CRS-Practice-REST-Project/web/Web" />
+      <element id="javaee-facet-resources" facet="CRS-JEDI-FLIPKART-REST/web/Web" />
     </root>
   </artifact>
 </component>
